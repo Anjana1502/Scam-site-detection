@@ -40,10 +40,12 @@ Threat Type: Lottery/Prize Scam
 5. Users can report suspicious sites to the community database  
 
 
-Output Files
+**Output Files**
+
 reported_sites.csv – Database of user-submitted scam reports
 
 detection_log.json – Log of all analyzed URLs with timestamps
 
-Disclaimer
+**Disclaimer**
+
 This tool provides heuristic and community-based detection. Always exercise caution when visiting unfamiliar websites. Do not enter personal information on sites flagged as dangerous.
