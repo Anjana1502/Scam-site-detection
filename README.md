@@ -1,4 +1,4 @@
-# Scam Site Detection Tool
+#Phishing Site Detection Tool
 
 A lightweight tool for detecting potential scam, phishing, and fraudulent websites based on URL analysis, threat intelligence, and user reports.
 
